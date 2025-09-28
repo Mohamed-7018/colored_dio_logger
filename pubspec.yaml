@@ -1,7 +1,7 @@
 name: colored_dio_logger
 description: "A Dio interceptor that logs network calls in a pretty, easy-to-read format with ANSI colors. colored_dio_logger enhances the original Pretty Dio Logger by adding colored console output for better readability and quick debugging."
 version: 0.0.1
-homepage: null
+homepage: https://github.com/Mohamed-7018/colored_dio_logger
 
 environment:
   sdk: ^3.9.2
